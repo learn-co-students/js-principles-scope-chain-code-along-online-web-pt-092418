@@ -20,7 +20,7 @@ function changeLeastFavoriteCustomer() {
 }
 
 
-function attemptTwoFavoriteCustomers() {
-  let favoriteCustomer = "customer3";
-  let favoriteCustomer = "customer4";
-}
+// function attemptTwoFavoriteCustomers() {
+//   let favoriteCustomer = "customer3";
+//   let favoriteCustomer = "customer4";
+// }
