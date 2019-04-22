@@ -16,12 +16,4 @@ function changeLeastFavoriteCustomer() {
   LeastFavoriteCustomer = bestCustomer()
 };
 
-function attemptTwoFavoriteCustomers() {
-  let favoriteCustomer = '';
 
-  return favoriteCustomer
-
-  let favoriteCustomer = '';
-  
-  return favoriteCustomer
-};
